@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FormFirstTest.arrivalsData" Collapsed="true">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAIAAoAAAAAAEAAAAAAAkAEAACAAAAAAA=</HashCode>
+      <FileName>arrivalsData.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FormFirstTest.DepartureBoard" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQEAAAkAASBAAACgAAAAIFKAAAABCAAAEA=</HashCode>
+      <FileName>DepartureBoard.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FormFirstTest.Dijkstra">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCEAAAAAAAADgAAAAQAACAAAAAABAAAAAAAQAAgBAAA=</HashCode>
+      <FileName>Dijkstra.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FormFirstTest.lineClass">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgQgEAAAAAAAAAAAAAAAAAAAAAAEAAEAAAAEAABQAgI=</HashCode>
+      <FileName>lineClass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FormFirstTest.mainMenuForm" Collapsed="true">
+    <Position X="3.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACEGAAAAAAAACAAAACAAAAAAAAAAEAAAAAAAw=</HashCode>
+      <FileName>mainMenuForm.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FormFirstTest.searchForm" Collapsed="true">
+    <Position X="2" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BFgCAE4OMHAgAgMCgNCICWECEESkgCZYGGGjgQAIQQA=</HashCode>
+      <FileName>searchForm.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FormFirstTest.searchMapShow" Collapsed="true">
+    <Position X="3.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAiAAAAAAAASAAAACAAAAAAABAAAQAAGAAAA=</HashCode>
+      <FileName>searchMapShow.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FormFirstTest.stationClass">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAQAABAAAAAQAAAAAAAAAQCACEAAAAACAEAAAIAgE=</HashCode>
+      <FileName>stationClass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FormFirstTest.tubeLink" Collapsed="true">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAgAAAAAAAAEAAAEAAAiAAAAAAABAAY=</HashCode>
+      <FileName>tubeLink.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FormFirstTest.My.MyApplication" Collapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FormFirstTest.My.MySettings" Collapsed="true">
+    <Position X="2" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABEAAAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="FormFirstTest.procedures" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAABAABAIAhwAAAAAAAEBhAIAAAAAAAAAAoAAAIA=</HashCode>
+      <FileName>procedures.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="FormFirstTest.My.MySettingsProperty" Collapsed="true">
+    <Position X="3.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="FormFirstTest.My.Resources.Resources" Collapsed="true">
+    <Position X="2" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
